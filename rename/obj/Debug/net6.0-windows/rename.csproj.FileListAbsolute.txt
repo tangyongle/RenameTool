@@ -1,0 +1,17 @@
+C:\rename\rename\bin\Debug\net6.0-windows\rename.exe
+C:\rename\rename\bin\Debug\net6.0-windows\rename.deps.json
+C:\rename\rename\bin\Debug\net6.0-windows\rename.runtimeconfig.json
+C:\rename\rename\bin\Debug\net6.0-windows\rename.dll
+C:\rename\rename\bin\Debug\net6.0-windows\rename.pdb
+C:\rename\rename\obj\Debug\net6.0-windows\rename.csproj.AssemblyReference.cache
+C:\rename\rename\obj\Debug\net6.0-windows\rename.Form1.resources
+C:\rename\rename\obj\Debug\net6.0-windows\rename.csproj.GenerateResource.cache
+C:\rename\rename\obj\Debug\net6.0-windows\rename.GeneratedMSBuildEditorConfig.editorconfig
+C:\rename\rename\obj\Debug\net6.0-windows\rename.AssemblyInfoInputs.cache
+C:\rename\rename\obj\Debug\net6.0-windows\rename.AssemblyInfo.cs
+C:\rename\rename\obj\Debug\net6.0-windows\rename.csproj.CoreCompileInputs.cache
+C:\rename\rename\obj\Debug\net6.0-windows\rename.dll
+C:\rename\rename\obj\Debug\net6.0-windows\refint\rename.dll
+C:\rename\rename\obj\Debug\net6.0-windows\rename.pdb
+C:\rename\rename\obj\Debug\net6.0-windows\rename.genruntimeconfig.cache
+C:\rename\rename\obj\Debug\net6.0-windows\ref\rename.dll
